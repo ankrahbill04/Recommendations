@@ -24,12 +24,11 @@ CPU: 10th Gen Intel Core i5-1035G1
 Number of Processors: 1
 RAM: 8GB
 Hard Drive Storage: 512GB SSD
-Reasons for the Recommendation:
+
+# Reasons for the Recommendation:
 CPU Benchmark Score: The Intel Core i3-1115G4 in Option 2 and the Intel Core i5-1035G1 in Option 3 both have higher CPU benchmark scores compared to the AMD Athlon Silver 7120U in the CFO's requested laptop (Option 1). This means that both recommended laptops will deliver better overall performance, faster processing, and improved multitasking capabilities.
-
-# Memory (RAM): Both recommended laptops (Option 2 and Option 3) come with 8GB of RAM, which is double the amount of the CFO's requested laptop's 4GB (Option 1). With more RAM, both recommended laptops can handle multiple applications simultaneously and ensure smoother performance without slowdowns.
-
-# Storage Capacity: Both recommended laptops offer a 512GB SSD, four times more than the CFO's requested laptop's 128GB SSD (Option 1). This larger storage capacity allows for ample space to store files, documents, and applications, enhancing productivity and reducing the need for external storage.
+Memory (RAM): Both recommended laptops (Option 2 and Option 3) come with 8GB of RAM, which is double the amount of the CFO's requested laptop's 4GB (Option 1). With more RAM, both recommended laptops can handle multiple applications simultaneously and ensure smoother performance without slowdowns.
+Storage Capacity: Both recommended laptops offer a 512GB SSD, four times more than the CFO's requested laptop's 128GB SSD (Option 1). This larger storage capacity allows for ample space to store files, documents, and applications, enhancing productivity and reducing the need for external storage.
 
 # Overall Recommendation:
 Considering the higher CPU benchmark scores, increased RAM, and larger storage capacity, both recommended Lenovo IdeaPad 3i Laptop (Option 2) and ASUS VivoBook 14 (Option 3) are better options for the organization's needs compared to the CFO's requested Lenovo Ideapad 1 Laptop (Option 1). The superior performance and features of both recommended laptops make them ideal choices for both business and student use.
